@@ -2,7 +2,7 @@ import gpxpy
 import lxml
 
 def main():
-    pass
+    working_dictionary=input()
 
 if __name__ == "__main__":
     main()
